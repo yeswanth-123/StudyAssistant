@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+uploads/
+faiss_store/
+studymate.db
+*.egg-info/
+dist/
+build/
+.venv/
+venv/

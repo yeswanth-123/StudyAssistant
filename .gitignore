@@ -1,0 +1,41 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+backend/.env
+.env
+
+# Database & runtime data
+backend/studymate.db
+backend/faiss_store/
+backend/uploads/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.next/
+
+# Study materials (user content)
+studymaterials/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Docker
+*.log
+
+# Misc
+*.zip
